@@ -1,3 +1,4 @@
+```yaml
 ---
 name: Feature
 about: Đề xuất hoặc phát triển một tính năng mới
@@ -75,3 +76,6 @@ so that I can meditate together with other people.
 
 ## Additional Notes
 Thông tin bổ sung nếu cần.
+
+---
+```
