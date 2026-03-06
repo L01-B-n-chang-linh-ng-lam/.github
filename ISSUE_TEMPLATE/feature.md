@@ -60,8 +60,6 @@ so that I can meditate together with other people.
 
 ## Screenshots / Mockups (optional)
 Đính kèm wireframe hoặc UI design nếu có.
+
 ## Additional Notes
 Thông tin bổ sung nếu cần.
-
----
-```
