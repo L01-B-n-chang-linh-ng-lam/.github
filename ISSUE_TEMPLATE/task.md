@@ -1,3 +1,4 @@
+```yaml
 ---
 name: Task
 about: Create a project task
@@ -29,6 +30,7 @@ Mô tả mục tiêu của task.
 Link hoặc output của task.
 
 ---
+```
 
 ## Notes
 Thông tin bổ sung nếu cần.
