@@ -1,12 +1,26 @@
-## Hi there 👋
+# MindStation Labs
 
-<!--
+MindStation Labs builds digital tools that help people stabilize their mental state, reflect on emotions, and cultivate mindfulness.
 
-**Here are some ideas to get you started:**
+## Focus Areas
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Meditation and mental wellness applications
+- Real-time social interaction systems
+- AI-assisted emotional reflection
+- Data-driven mental health insights
+
+## Key Projects
+
+- **MindStation App** – Instant meditation sessions and mood tracking
+- **Meditation Rooms** – Real-time guided meditation with experts
+- **Emotion Journal** – Track emotional changes before and after meditation
+
+## Tech Stack
+
+- Backend: Spring Boot, Redis, WebSocket
+- Infrastructure: Docker, Envoy
+- AI / Data: Python, Graph Neural Networks
+
+## Mission
+
+We believe short moments of mindfulness can significantly improve mental stability in modern digital life.
