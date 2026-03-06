@@ -29,8 +29,6 @@ Ví dụ:
   - tham gia phòng thiền
   - theo dõi thời gian thiền
 
----
-
 ## User Story
 As a **user**,  
 I want to **[thực hiện hành động]**,  
