@@ -1,4 +1,3 @@
-```yaml
 ---
 name: Feature
 about: Đề xuất hoặc phát triển một tính năng mới
@@ -14,15 +13,11 @@ Ví dụ:
 - Cho phép người dùng tham gia thiền trực tuyến với chuyên gia.
 - Cho phép ghi lại tâm trạng trước và sau khi thiền.
 
----
-
 ## Problem / Motivation
 Tính năng này giải quyết vấn đề gì?
 
 - Người dùng hiện không có cách nào để ...
 - Ứng dụng cần hỗ trợ ... để cải thiện trải nghiệm.
-
----
 
 ## Proposed Solution
 Mô tả cách triển khai tính năng.
@@ -47,8 +42,6 @@ As a user,
 I want to join a live meditation session,  
 so that I can meditate together with other people.
 
----
-
 ## Tasks
 - [ ] Thiết kế UI/UX
 - [ ] Implement frontend
@@ -56,8 +49,6 @@ so that I can meditate together with other people.
 - [ ] Integrate với hệ thống hiện có
 - [ ] Viết test
 - [ ] Cập nhật documentation
-
----
 
 ## Acceptance Criteria
 Điều kiện để feature được xem là hoàn thành.
@@ -67,13 +58,8 @@ so that I can meditate together with other people.
 - Không phát sinh lỗi nghiêm trọng.
 - Đã được review và merge.
 
----
-
 ## Screenshots / Mockups (optional)
 Đính kèm wireframe hoặc UI design nếu có.
-
----
-
 ## Additional Notes
 Thông tin bổ sung nếu cần.
 
